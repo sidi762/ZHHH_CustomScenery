@@ -1,0 +1,7 @@
+# osm2roads_e110n20_e112n27_4791618
+# do not edit below this line
+# Last Written Mon Feb 17 10:58:43 2020
+#
+OBJECT_RAILWAY_ROUGH e110n20_e112n27_4791618railways_rough1005.ac 112.71169 27.09927 137.39 0
+OBJECT_ROAD_ROUGH e110n20_e112n27_4791618roads_rough1106.ac 112.73185 27.11732 133.96 0
+# END osm2roads_e110n20_e112n27_4791618

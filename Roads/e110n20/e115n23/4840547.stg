@@ -1,0 +1,7 @@
+# osm2roads_e110n20_e115n23_4840547
+# do not edit below this line
+# Last Written Mon Feb 17 17:42:03 2020
+#
+OBJECT_ROAD_ROUGH e110n20_e115n23_4840547roads_rough1000.ac 115.95570 23.50903 28.94 0
+OBJECT_ROAD_ROUGH e110n20_e115n23_4840547roads_rough1100.ac 115.97529 23.50903 25.73 0
+# END osm2roads_e110n20_e115n23_4840547
