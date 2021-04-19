@@ -1,0 +1,15 @@
+OBJECT_SHARED Models/Industrial/water-tower.ac 114.357047 30.6163054 27.96 0
+OBJECT_SHARED Models/Industrial/water-tower.ac 114.371195 30.6093692 18.09 0
+OBJECT_SHARED Models/Maritime/Civilian/barge.ac 114.3338767 30.6173873 8.99 64
+OBJECT_SHARED Models/Maritime/Civilian/barge.ac 114.3390227 30.623127 11.56 64
+OBJECT_SHARED Models/Maritime/Civilian/SimpleFreighter.ac 114.3267197 30.6106015 0.93 144
+OBJECT_SHARED Models/Maritime/Civilian/SimpleFreighter.ac 114.3747512 30.5976463 21.78 0
+OBJECT_SHARED Models/Transport/ICE-firstcar.xml 114.4424185 30.5547768 24.79 32
+OBJECT_SHARED Models/Transport/ICE-firstcar.xml 114.4433589 30.5535091 24.43 209.8
+OBJECT_SHARED Models/Transport/ICE-middlecar.xml 114.4425535 30.5545933 24.73 32.9
+OBJECT_SHARED Models/Transport/ICE-middlecar.xml 114.44269 30.5544127 24.69 32.2
+OBJECT_SHARED Models/Transport/ICE-middlecar.xml 114.4428228 30.5542321 24.63 36
+OBJECT_SHARED Models/Transport/ICE-middlecar.xml 114.4429542 30.5540664 24.6 36
+OBJECT_SHARED Models/Transport/ICE-middlecar.xml 114.4430904 30.5538852 24.55 32
+OBJECT_SHARED Models/Transport/ICE-middlecar2.xml 114.4432283 30.5536963 24.49 32
+OBJECT_STATIC minsheng-bank-building.ac 114.268 30.597 26.84 12

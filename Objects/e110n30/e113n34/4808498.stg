@@ -1,0 +1,11 @@
+OBJECT_SHARED Models/Airport/ndb.ac 113.67 34.786667 96.29 180
+OBJECT_SHARED Models/Residential/ZoneImmeublesHauts.xml 113.6713695 34.7547454 104.55 0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_green_dark.xml 113.6627337 34.7614391 103.59 0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_dark.xml 113.6603427 34.7573054 110.54 0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_roze.xml 113.662383 34.7588317 102.74 0
+OBJECT_SHARED Models/Commercial/tower-grey-black.ac 113.6464317 34.7542364 107.56 0
+OBJECT_SHARED Models/Commercial/tower-square-dark.ac 113.6524165 34.752219 104.85 0
+OBJECT_SHARED Models/Commercial/tower-square-dark.ac 113.6540999 34.751115 106.25 0
+OBJECT_SHARED Models/Commercial/tower-striped-black-white.ac 113.6627396 34.7532376 111.42 0
+OBJECT_SHARED Models/Commercial/tower-striped-black-white.ac 113.6635205 34.7540396 108.02 0
+OBJECT_STATIC Zhengzhou_Wheel.xml 113.654939 34.764514 103.61 0

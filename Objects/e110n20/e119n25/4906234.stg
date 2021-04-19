@@ -1,0 +1,17 @@
+OBJECT_SHARED Models/Airport/ils.xml 119.655142 25.9235 6.8 333.51
+OBJECT_SHARED Models/Airport/ils.xml 119.668358 25.946989 15 153.5
+OBJECT_SHARED Models/Communications/vordme_1.xml 119.656483 25.9229 7.04 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 119.661667 25.94 16.31 180
+OBJECT_SHARED Models/Airport/marker.ac 119.650742 25.912428 4.18 180
+OBJECT_SHARED Models/Airport/marker.ac 119.653844 25.918089 5.73 180
+OBJECT_SHARED Models/Airport/marker.ac 119.676014 25.958111 17.49 180
+OBJECT_SHARED Models/Airport/marker.ac 119.695772 25.994089 10.77 180
+OBJECT_SHARED Models/Airport/localizer.xml 119.654067 25.918492 6.02 296.56
+OBJECT_SHARED Models/Airport/localizer.xml 119.672478 25.951636 15.19 116.57
+OBJECT_SHARED Models/Power/generic_power_plant.xml 119.5849509 25.9291545 3.81 0
+OBJECT_SHARED Models/Industrial/bond-warehouse.ac 119.6709576 25.9608899 24.62 336
+OBJECT_SHARED Models/Industrial/Zone-Indus.xml 119.6506793 25.9276571 13.05 320
+OBJECT_SHARED Models/Industrial/Zone-Indus-long.xml 119.6396003 25.9086688 3.49 96
+OBJECT_SHARED Models/Industrial/Zone-Indus-long.xml 119.6541926 25.9348812 28.75 316
+OBJECT_SHARED Models/Industrial/Zone-Indus-long.xml 119.6770552 25.9281521 14.24 328
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml 119.6288877 25.9006424 2.57 0
